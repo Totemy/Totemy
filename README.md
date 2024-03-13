@@ -30,8 +30,10 @@ As a front-end developer with one year of outsourcing experience, I'm passionate
     - [Demo](https://twitch-prime-wot.netlify.app)
 
 ### 📫 How to Reach Me
-[Email] - ihor.stryzhnov@gmail.com
+[Email] - ihor.stryzhnov@gmail.com 
+
 [LinkedIn Profile](https://www.linkedin.com/in/ihor-stryzhnov-2697321ab/)
+
 [My Portfolio Website](https://ihor-stryzhnov-dev.netlify.app/)
 
 ### ✨ Other things about me
