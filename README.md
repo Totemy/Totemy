@@ -24,7 +24,7 @@ As a front-end developer with one year of outsourcing experience, I'm passionate
     - Develop pixel perfect landing page
     - Mobile adaptive 
     - Carousel gallery
-    - [Link to the project repository](https://github.com/Totemy/dinamo-app)  
+    - [Link to the project repository](https://github.com/Totemy/dinamo-app)  [Demo](https://dinamo-restaurant-app.netlify.app)
 * **Marketplace (Vue.js):**
     - Mobile adaptive 
     - [Demo](https://twitch-prime-wot.netlify.app)
