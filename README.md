@@ -1,14 +1,14 @@
 ## 👋 Hi there, I'm Ihor Stryzhnov
 
-**Front-End Developer | Lviv Ukraine**
+**Front-End Developer | Kyiv Ukraine**
 
 As a front-end developer with one year of outsourcing experience, I'm passionate about crafting user-friendly and visually appealing web experiences.
 
 ### 💻 Skills
 * **Languages:** HTML, CSS (SCSS), JavaScript
-* **Frameworks & Libraries:** Vue.js, Angular (optional), Bootstrap
+* **Frameworks & Libraries:** Vue.js, Node.js, Angular (optional), Bootstrap 
 * **Tools:** Git, Cypress, Firebase 
-* **Other:**  CRUD operations, database integration, responsive design
+* **Other:**  CRUD operations, database integration, responsive design, mobile adaptive
 
 ### 🛠️ Recent Projects
 
