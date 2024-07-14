@@ -1,14 +1,17 @@
 ## 👋 Hi there, I'm Ihor Stryzhnov
 
-**Front-End Developer | Kyiv Ukraine**
+**Vue.js Front-End Developer | Kyiv Ukraine**
 
-As a front-end developer with one year of outsourcing experience, I'm passionate about crafting user-friendly and visually appealing web experiences.
+As a front-end developer of outsourcing and freelance experience, I'm passionate about crafting user-friendly and visually appealing web experiences.
+I specialized in developing single-page applications using the reactive frameworks Vue 2/3. My responsibilities included developing CRUD services, maintaining websites, and implementing e-commerce solutions for sales. Additionally, I gained valuable experience working with APIs and handling JSON data.
+Working with Vuex and Pinia strore.
+Created and configuration in project Firebase (Firestore Database).
 
 ### 💻 Skills
 * **Languages:** HTML, CSS (SCSS), JavaScript
-* **Frameworks & Libraries:** Vue.js, Node.js, Angular (optional), Bootstrap 
+* **Frameworks & Libraries:** Vue.js, Node.js, Bootstrap, Vuex, Pinia 
 * **Tools:** Git, Cypress, Firebase 
-* **Other:**  CRUD operations, database integration, responsive design, mobile adaptive
+* **Other:**  JSON, CRUD operations, database integration, responsive design, mobile adaptive
 
 ### 🛠️ Recent Projects
 
