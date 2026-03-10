@@ -19,15 +19,18 @@ Created and configuration in project Firebase (Firestore Database).
    - Developed a fully functional e-commerce website using Vue.js for the front-end and Firebase for real-time database and authentication.
    - Implemented features like product listings, shopping cart, checkout, and user profiles.
    - [Link to the project repository](https://github.com/Totemy/drop-bag-app) [Demo](https://krossu-kedu.netlify.app)
-* **Dashboard (Vue.js Bootstrap):**
-    - Develop pixel-perfect dashboard page
-    - Mobile adaptive
-    - [Link to the project repository](https://github.com/Totemy/dashboard-app)
+
 * **Landing page with adaptive (Vue.js):**
     - Develop pixel-perfect landing page
     - Mobile adaptive 
     - Carousel gallery
     - [Link to the project repository](https://github.com/Totemy/dinamo-app)  [Demo](https://dinamo-restaurant-app.netlify.app)
+
+* **Dashboard (Vue.js Bootstrap):**
+    - Develop pixel-perfect dashboard page
+    - Mobile adaptive
+    - [Link to the project repository](https://github.com/Totemy/dashboard-app)
+
 
 
 ### 📫 How to Reach Me
