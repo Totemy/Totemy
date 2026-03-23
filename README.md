@@ -28,7 +28,7 @@ Currently improving my skills by building real-world projects with clean archite
 - API integration and async data handling  
 - Focus on reusable components and scalable structure  
 
-👉 [https://github.com/Totemy/template-e-commerce](https://github.com/Totemy/template-e-commerce)  
+👉 [Code](https://github.com/Totemy/template-e-commerce)  
 
 ---
 
@@ -37,7 +37,7 @@ Currently improving my skills by building real-world projects with clean archite
 - Component-based architecture  
 - Clean UI and state handling  
 
-👉 [https://github.com/Totemy](https://github.com/Totemy/habit_app) 
+👉 [Code](https://github.com/Totemy/habit_app) 
 👉 [Demo](https://ishabit-app.netlify.app/)
 
 ---
