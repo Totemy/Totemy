@@ -1,45 +1,66 @@
-## 👋 Hi there, I'm Ihor Stryzhnov
+# 👋 Hello there, I'm Ihor Stryzhnov
 
-**Vue.js Front-End Developer | Kyiv Ukraine**
+**Frontend Developer (Vue.js) | Kyiv, Ukraine | Open to Work**
 
-As a front-end developer of outsourcing and freelance experience, I'm passionate about crafting user-friendly and visually appealing web experiences.
-I specialized in developing single-page applications using the reactive frameworks Vue 2/3. My responsibilities included developing CRUD services, maintaining websites, and implementing e-commerce solutions for sales. Additionally, I gained valuable experience working with APIs and handling JSON data.
-Working with Vuex and Pinia strore.
-Created and configuration in project Firebase (Firestore Database).
+Frontend developer with 1 year of commercial experience in outsourcing projects.  
+I focus on building responsive, user-friendly interfaces and implementing real business features using Vue 3.
 
-### 💻 Skills
-* **Languages:** HTML, CSS (SCSS), JavaScript
-* **Frameworks & Libraries:** Vue.js, Node.js, Bootstrap, Vuex, Pinia 
-* **Tools:** Git, Cypress, Firebase 
-* **Other:**  JSON, CRUD operations, database integration, responsive design, mobile adaptive
+I have experience working with APIs, dynamic data, and e-commerce functionality.  
+Currently improving my skills by building real-world projects with clean architecture and modern frontend practices.
 
-### 🛠️ Recent Projects
+---
 
-* **E-commerce Platform (Vue.js + Firebase):**
-   - Developed a fully functional e-commerce website using Vue.js for the front-end and Firebase for real-time database and authentication.
-   - Implemented features like product listings, shopping cart, checkout, and user profiles.
-   - [Link to the project repository](https://github.com/Totemy/drop-bag-app) [Demo](https://krossu-kedu.netlify.app)
+## 🚀 Tech Stack
 
-* **Landing page with adaptive (Vue.js):**
-    - Develop pixel-perfect landing page
-    - Mobile adaptive 
-    - Carousel gallery
-    - [Link to the project repository](https://github.com/Totemy/dinamo-app)  [Demo](https://dinamo-restaurant-app.netlify.app)
+**Frontend:** Vue 3 (Composition API), JavaScript, TypeScript  
+**Styling:** SCSS, TailwindCSS  
+**Backend (basic):** Node.js  
+**Database (basic):** PostgreSQL  
+**Other:** REST API, Git, Axios, Figma  
 
-* **Dashboard (Vue.js Bootstrap):**
-    - Develop pixel-perfect dashboard page
-    - Mobile adaptive
-    - [Link to the project repository](https://github.com/Totemy/dashboard-app)
+---
 
+## 🧩 Featured Projects
 
+### 🛒 E-commerce App
+- Product listing and cart functionality  
+- State management with composables  
+- API integration and async data handling  
+- Focus on reusable components and scalable structure  
 
-### 📫 How to Reach Me
-[Email] - ihor.stryzhnov@gmail.com 
+👉 [https://github.com/Totemy/template-e-commerce](https://github.com/Totemy/template-e-commerce)  
 
-[LinkedIn Profile](https://www.linkedin.com/in/ihor-stryzhnov-2697321ab/)
+---
 
-[My Portfolio Website](https://ihor-stryzhnov-dev.netlify.app/)
+### 📊 Habit Tracker App
+- Dynamic habit management  
+- Component-based architecture  
+- Clean UI and state handling  
 
-### ✨ Other things about me
-* I'm always looking to learn new technologies and improve my development skills.
-* I enjoy collaborating with teams to build amazing web experiences.
+👉 [https://github.com/Totemy](https://github.com/Totemy/habit_app) 
+👉 [Demo](https://ishabit-app.netlify.app/)
+
+---
+
+## 💼 Experience Highlights
+
+- Built and maintained web applications for real clients  
+- Implemented pixel-perfect UI based on Figma designs  
+- Integrated REST APIs and handled asynchronous data  
+- Developed and improved e-commerce features  
+- Refactored code for better maintainability  
+
+---
+
+## 📫 Contact Me
+
+- Email: ihor.stryzhnov@gmail.com  
+- [LinkedIn Profile](https://www.linkedin.com/in/ihor-stryzhnov-2697321ab/)  
+
+---
+
+## ⚡ About Me
+
+- I enjoy solving real-world problems with clean code  
+- Focused on growth as a frontend developer  
+- Open to new opportunities and collaboration  
